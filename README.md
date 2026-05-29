@@ -289,10 +289,3 @@ CybersecurityAwarenessBot/
 
 ---
 
-## Notes for Submission
-
-- Submit your **GitHub repository link** on ARC
-- Submit your **YouTube video (unlisted)** link on ARC or in this README above
-- Ensure your repository has a **minimum of 6 commits** with meaningful messages
-- Ensure there are **at least 2 release tags** on GitHub
-
